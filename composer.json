@@ -1,8 +1,8 @@
 {
-    "name": "7os/web-app-contact",
+    "name": "7os/contact-soswapp",
     "description": "7 OS Web - Project contact template",
     "keywords": ["php", "javascript","7","seven","os","web","contact","us"],
-    "homepage": "https://github.com/7os/web-app-contact",
+    "homepage": "https://github.com/7os/contact-soswapp",
     "type": "library",
     "license": "MIT",
     "authors": [
